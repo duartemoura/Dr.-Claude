@@ -19,7 +19,7 @@ git clone https://github.com/duartemoura/Dr.-Claude.git
 
 To run the notebook:
 
-- Launch your Studio Domain
+- Launch your SageMaker Studio Domain
 - Create JupyterLab space if you don't have one already
 - Start JupyterLab
 - Open the llm_kb_email.ipynb file
