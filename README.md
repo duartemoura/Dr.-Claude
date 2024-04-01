@@ -14,16 +14,17 @@ To set up the project environment, clone this repository in a terminal inside Sa
 
 ```bash
 git clone https://github.com/duartemoura/Dr.-Claude.git
-cd Dr.-Claude
 ```
 ## Usage 
 
 To run the notebook:
 
-- Start Jupyter Notebook or JupyterLab.
-- Open the llm_kb_email.ipynb file.
+- Launch your Studio Domain
+- Create JupyterLab space if you don't have one already
+- Start JupyterLab
+- Open the llm_kb_email.ipynb file
 - Choose a kernel - Python3 (ipykernel)
-- Follow the instructions within the notebook to execute the cells.
+- Follow the instructions within the notebook to execute the cells
 
 ## Acknowledgements 
 
