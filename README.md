@@ -7,7 +7,7 @@ This Jupyter notebook demonstrates how to leverage AWS services and generative A
 
 Before you begin, ensure you have the following pre-requisites:
 - An AWS account
-- Access to Claude 3 models (you can request access through the AWS console)
+- Access to Claude 3 and Titan Embeddings models (you can request access through the AWS console)
 - A SageMaker Studio Domain
 
 To set up the project environment, clone this repository in a terminal inside SageMaker's Jupyter Lab:
